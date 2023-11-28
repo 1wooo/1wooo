@@ -4,8 +4,6 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello World! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 알고리즘 공부중 🖐️</li></li> </div> 
-        [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdsa113)](https://solved.ac/asdsa113)
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -25,3 +23,5 @@
           /> </div> 
     </div>
     
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdsa113)](https://solved.ac/asdsa113)
