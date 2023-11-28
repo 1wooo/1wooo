@@ -24,7 +24,3 @@
            /> </div> 
     </div>
     
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdsa113)](https://solved.ac/asdsa113)
-
